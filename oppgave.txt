@@ -1,0 +1,12 @@
+Create a new file new.txt on the main branch, commit and push it.
+Create two new branches from main.
+In both branches, change the text of the new.txt file.
+On the first branch, commit the change, create a pull request and merge the branch into main.
+On the second branch, stash this change.
+On the first branch, merge changes from main branch.
+Apply stash and resolve conflicts, keeping the stashed version.
+Commit the changes and push them.
+Create a pull request and merge it to the main branch.
+On the GitHub platform, delete the two created branches and the new.txt file from the main branch.
+
+
